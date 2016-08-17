@@ -1,0 +1,106 @@
+body,
+html {
+	min-height: 100%;
+}
+
+body {
+	background-image: url("../images/asses.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+header {
+	background: #f9f9f9;
+	color: white;
+	padding: 0.5% 0.5% 0.5% 0.5%;
+    margin-top: 0.5%;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0 0 0 0.5%;
+	display: inline;
+}
+
+nav ul li {
+	background: black;
+	color: white;
+	display: inline-block;
+	list-style-type: none;
+	padding: 0.25% 0.5%;
+}
+
+nav ul li a {
+	color: white;
+}
+
+.welcome {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tolms {
+    text-align: center;
+    font-size: 150%;
+}
+
+.dpdn {
+    text-align: center;
+}
+
+.dropdown {
+    position: relative;
+    display:inline-block;
+    max-width: 20%;
+    max-height: 10%;
+}
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1%;
+    font-size: 108%;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn a {
+	color: white;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 100%;
+    box-shadow: 0 0.5% 1% 0 rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 2% 2%;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ccffcc}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+.fd {
+	margin-top: 23%;
+    left: 30%;
+    right: 30%;
+
+}
+
+footer {
+    text-align: center;
+}
