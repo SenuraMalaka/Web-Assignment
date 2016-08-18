@@ -4,7 +4,7 @@
 <meta charset="utf-8"/>
 	<title>LMS - National School of Business Management</title>
 	<link href="css/index.css" type="text/css" rel="stylesheet"/>
-  <script type="text/javascript" src="js/jquery-2.2.4.min.js"></script>
+  <script type="text/javascript" src="js/jquery-2.2.4.min.js"></script> <!-- but jquery never been used  -->
 </head>
 
 <body>
