@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> //senura test
 <html>
 <head>
 <meta charset="utf-8"/>
